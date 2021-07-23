@@ -1,0 +1,48 @@
+
+.container{
+    background:linear-gradient(#220422,#140622);
+    color:hsl(318, 64%, 79%);
+  width: 100%;
+  margin-right: 0;
+  margin-left: 4%;
+}
+.food{
+  background-image: url(images/Frame\ 59.jpg);
+  margin-top: 2%;
+  margin-bottom: 3%;
+
+}
+.col{
+  width: 350px;
+  height: 350px;
+   margin-left: 40px;
+  border-radius: 2px;
+  margin-right: 20px;
+  /* box-shadow: 0 10px 20px #786185; */
+  border: 2px;;
+  margin-bottom: 2%;
+}
+.col .food1:hover{
+   margin-top: 6%;
+   margin-bottom: 2%;
+  transform: scale(1.2);
+  box-shadow: 5px 5px 15px #581a4a;
+  width: 300px;
+  height: 300px;
+}
+.col .food2:hover{
+   margin-top: 6%;
+   margin-bottom: 2%;
+  transform: scale(1.2);
+  box-shadow: 5px 5px 15px #581a4a;
+  width: 300px;
+  height: 300px;
+}
+.col .food3:hover{
+   margin-top: 6%;
+   margin-bottom: 2%;
+  transform: scale(1.2);
+  box-shadow: 5px 5px 15px #581a4a;
+  width: 300px;
+  height: 300px;
+}
